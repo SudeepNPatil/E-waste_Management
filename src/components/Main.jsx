@@ -18,7 +18,7 @@ function Main() {
         </div>
 
         <div className="relative h-full flex flex-col justify-center items-center text-center px-4 ">
-          <h1 className="text-4xl md:text-5xl font-bold w-1/2 mt-32 leading-25 text-white mb-4 selection:bg-yellow-100 selection:text-black">
+          <h1 className="text-4xl md:text-5xl font-bold w-1/2 mt-32 leading-15 text-white mb-4 selection:bg-yellow-100 selection:text-black">
             Sell Your Old Electronic Waste With Us
           </h1>
           <p className="text-xl md:text-2xl text-white mb-8 max-w-2xl selection:bg-yellow-100 selection:text-black">
@@ -26,7 +26,7 @@ function Main() {
           </p>
           <Link
             to="/Sell_E_waste"
-            className="mb-15 px-8 py-3 bg-white text-black rounded-lg hover:bg-black hover:text-white transition-all duration-300 text-lg font-semibold shadow-lg hover:shadow-xl transform hover:scale-110"
+            className="mb-15 px-8 py-3 bg-white text-black rounded-lg hover:bg-green-900 hover:text-white transition-all duration-300 text-lg font-semibold shadow-lg hover:shadow-xl transform hover:scale-110"
           >
             Sell Now
           </Link>
